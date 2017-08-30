@@ -1,0 +1,33 @@
+{
+  "name": "kotlin-node.js",
+  "version": "1.0.0",
+  "description": "Kotlin x Node.JS",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "html": "^1.0.0",
+    "kotlin": "^1.1.0",
+    "node.js": "0.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "npm run assets",
+    "start": "node node/index.js",
+    "assets": "cp -R src/main/resources/ node/static/",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "assets:watch":   "onchange 'src/main/resources/*.*' -v -- npm run assets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/miquelbeltran/kotlin-node.js.git"
+  },
+  "author": "Miquel Beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miquelbeltran/kotlin-node.js/issues"
+  },
+  "homepage": "https://github.com/miquelbeltran/kotlin-node.js#readme"
+}

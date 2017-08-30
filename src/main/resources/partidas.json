@@ -1,0 +1,86 @@
+ [
+   {
+    "codigo": "Partida-01",
+    "nome": "Liga1Partida1",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "uNexpected",
+    "time1codigo": "TIME-010",
+    "time2nome": "Azeitona",
+    "time2codigo": "TIME-080",
+    "ganhador": "TIME-080",
+    "tipoDePartida": "QF1"
+  },
+  {
+    "codigo": "Partida-02",
+    "nome": "Liga1Partida2",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "Laminhos",
+    "time1codigo": "TIME-020",
+    "time2nome": "Bolão",
+    "time2codigo": "TIME-070",
+    "ganhador": "TIME-020",
+    "tipoDePartida": "QF2"
+  },
+  {
+    "codigo": "Partida-03",
+    "nome": "Liga1Partida3",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "CaeCuzão",
+    "time1codigo": "TIME-030",
+    "time2nome": "Requeijão",
+    "time2codigo": "TIME-060",
+    "ganhador": "TIME-030",
+    "tipoDePartida": "QF3"
+  },
+  {
+    "codigo": "Partida-04",
+    "nome": "Liga1Partida4",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "Naschownz",
+    "time1codigo": "TIME-040",
+    "time2nome": "Reco-Reco",
+    "time2codigo": "TIME-050",
+    "ganhador": "TIME-040",
+    "tipoDePartida": "QF4"
+  },
+  {
+    "codigo": "Partida-05",
+    "nome": "Liga1Partida5",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "Azeitona",
+    "time1codigo": "TIME-080",
+    "time2nome": "Naschownz",
+    "time2codigo": "TIME-040",
+    "ganhador": "TIME-080",
+    "tipoDePartida": "S1"
+  },
+  {
+    "codigo": "Partida-06",
+    "nome": "Liga1Partida6",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "Laminhos",
+    "time1codigo": "TIME-020",
+    "time2nome": "CaeCuzão",
+    "time2codigo": "TIME-030",
+    "ganhador": "TIME-020",
+    "tipoDePartida": "S2"
+  },
+  {
+    "codigo": "Partida-07",
+    "nome": "Liga1Partida7",
+    "nomeliga": "Liga Pro",
+    "codigoliga": "LIGA.001",
+    "time1nome": "Azeitona",
+    "time1codigo": "TIME-080",
+    "time2nome": "Laminhos",
+    "time2codigo": "TIME-020",
+    "ganhador": "TIME-080",
+    "tipoDePartida": "GF"
+  }
+]
